@@ -3,7 +3,7 @@
 [![Build](https://github.com/alicealys/h2-mod/workflows/Build/badge.svg)](https://github.com/alicealys/h2-mod/actions)
 [![Discord](https://img.shields.io/discord/955362057581129738?color=%237289DA&label=members&logo=discord&logoColor=%23FFFFFF)](https://discord.gg/dpnRn2tKT9)
 
-# H2: Mod - SKIP LAUNCHER EDITION
+# H2: Mod Doodplayer10111 fork (skips the launcher and boots right into the game)
 <p align="center">
   <img src="assets/github/banner.png?raw=true" />
 </p>
