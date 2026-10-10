@@ -221,12 +221,7 @@ int main()
 			auto mode = detect_mode_from_arguments();
 			if (mode == launcher::mode::none)
 			{
-				const launcher launcher;
-				mode = launcher.run();
-				if (mode == launcher::mode::none)
-				{
-					return 0;
-				}
+			    mode = launcher::mode::singleplayer; // use whichever mode your enum defines
 			}
 
 			game::environment::set_mode(mode);
